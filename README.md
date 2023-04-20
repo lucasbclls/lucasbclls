@@ -3,7 +3,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-lucas-barcellos-lopes-9bb6511b3/)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbclls&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasbclls&show_icons=true)
+
 
 ### Technologies that I use in my daily life and have solid knowledge
 
